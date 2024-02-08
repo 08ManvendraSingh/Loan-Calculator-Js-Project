@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.main{
+	width: 100%;
+	height: 100vh;
+	background-color: #222;
+	padding-top: 13rem;
+}
+.calcBx{
+	width: 25%;
+	height: 20rem;
+	background-color: lightpink;
+	text-align: center;
+	border-radius: 20px;
+	font-size: 1.2rem;
+	margin-left: 37%;
+	padding: 2rem 20px;
+}
+.calcBx h2{
+	font-size: 2rem;
+}
+#ainput,#iinput,#minput{
+	width: 50%;
+	margin-top: 1rem;
+	font-size: 1rem;
+	height: 2rem;
+}
+#output{
+	width: 50%;
+	height: 2rem;
+	margin-top: 3rem;
+	font-size: 2.5rem;
+}
